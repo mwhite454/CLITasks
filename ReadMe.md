@@ -3,7 +3,7 @@
 Don't want to take your hands off the keyboard to track tasks? I admire your commitment.
 
 ## Super simple to use
-Requires a running instance of [![Node.js](https://nodejs.org/en/)
+Requires a running instance of [Node.js](https://nodejs.org/en/)
 Download and NPM Install
 
 Options:
